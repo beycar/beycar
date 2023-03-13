@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos</h1>
-<h3 align="center">Estudante de Geografia na imersão dos dados espaciais e estatísticos.</h3>
+<h3 align="center">Na imersão dos dados espaciais e estatísticos.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
